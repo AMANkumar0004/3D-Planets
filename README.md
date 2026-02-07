@@ -119,7 +119,7 @@ Inside package.json:
 📸 Demo
 
 🎥 Live demo: (paste deployed link when ready)
-🌐 eg: https://3d-planets-yourid.vercel.app
+🌐 eg: https://3-d-planets-pied.vercel.app/
 
 👨‍💻 Contributing
 
