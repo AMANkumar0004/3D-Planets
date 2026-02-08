@@ -31,7 +31,7 @@ scene.environment = texture;
 const radius = 1.3;
 const segments = 32;
 const orbitRadius = 5;const colors = [0x00ff00, 0xff0000, 0x0000ff, 0xffff00];
-const textures = ["/csilla/color.png","./earth/map.jpg","./venus/map.jpg","./volcanic/color.png"];
+const textures = ["./csilla/color.png","./earth/map.jpg","./venus/map.jpg","./volcanic/color.png"];
 const spheres = new THREE.Group();
 
 
